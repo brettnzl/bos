@@ -13,12 +13,8 @@ Simply add CSS:
         } 
  </code>
  
- Add class to HTML elements
+Add class to HTML elements
  
-<code>
-  <div class="bos"></div>
-</code>
-
 Then through a Jquery Script in
 <code>
 <script type="text/javascript">
